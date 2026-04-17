@@ -1,0 +1,19 @@
+build/
+# VS Code
+.vscode/
+
+# ESP-IDF build
+build/
+sdkconfig.old
+sdkconfig
+
+# Componentes baixados automaticamente
+managed_components/
+dependencies.lock
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
