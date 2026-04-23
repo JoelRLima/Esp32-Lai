@@ -4,3 +4,4 @@ dependencies:
   espressif/esp_lcd_ili9341: ^2.0.1
   lvgl/lvgl: ^9.4.0
   espressif/esp_lvgl_port: ^2.6.3
+  esp-idf-lib/ads111x: ^1.1.14
