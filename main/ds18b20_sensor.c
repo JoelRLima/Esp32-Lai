@@ -20,7 +20,7 @@ static QueueHandle_t s_fila_temperatura = NULL; //Serve pra guardar a fila de te
 
 
 // DEFINIÇÕES DO HARDWARE
-#define ONEWIRE_BUS_GPIO 21
+#define ONEWIRE_BUS_GPIO 17
 #define MAX_DS18B20_DEVICES 1       // 1 sensor
 #define DS18B20_RESOLUTION DS18B20_RESOLUTION_12B
 
